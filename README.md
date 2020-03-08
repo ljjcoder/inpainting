@@ -1,7 +1,7 @@
 # inpainting
 Using wavelet loss and multi level discriminator
 ## Results on Places2, CelebA-HQ, and Paris streetview with rectangle masks.
-<img src="./pics/1583686433(1).jpg" width="100%" alt="Teaser">
+<img src="./pic/1583686433(1).jpg" width="100%" alt="Teaser">
 
 ## Results on Places2 and CelebA-HQ with random strokes.
 <p><img src="./pics/places2hd_random.gif" width="65%" alt="places2hd" style="margin-left: auto; margin-right: auto; display: block;"></p>
