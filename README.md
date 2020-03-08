@@ -1,6 +1,7 @@
-# inpainting
-Using wavelet loss and multi level discriminator
-## Results on Places2, CelebA-HQ, and Paris streetview with rectangle masks.
+# Inpainting Using  multi level discriminator and wavelet loss
+
+## Results on CA and GMCNN'(http://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks.pdf)'.
+.
 <img src="./pic/1583686433(1).jpg" width="100%" alt="Teaser">
 
 ## Results on Places2 and CelebA-HQ with random strokes.
