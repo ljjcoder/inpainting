@@ -1,6 +1,6 @@
 # Inpainting Using  multi level discriminator and wavelet loss
 
-## Results on CA and GMCNN'(http://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks.pdf)'.
+## Results on CA(https://github.com/JiahuiYu/generative_inpainting/tree/v1.0.0) and GMCNN(https://github.com/shepnerd/inpainting_gmcnn).
 .
 <img src="./pic/1583686433(1).jpg" width="100%" alt="Teaser">
 
