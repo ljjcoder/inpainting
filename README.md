@@ -5,7 +5,7 @@
 <img src="./pic/1583686433(1).jpg" width="100%" alt="Teaser">
 
 ## Results on Places2，paris_streetview and CelebA-HQ .
-<img src="./pic/1583691164(1).jpg" width="100%" alt="center">
+<img src="./pic/1583727392(1).jpg" width="100%" alt="center">
 <p><img src="./pics/places2hd_random.gif" width="65%" alt="places2hd" style="margin-left: auto; margin-right: auto; display: block;"></p>
 <p><img src="./pics/celeba-hq.png" width="100%" alt="celeba-hq_512"></p>
 
