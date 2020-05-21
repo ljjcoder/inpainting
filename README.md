@@ -24,7 +24,7 @@ If our method is useful for your research, please consider citing:
 
 ## Our framework
 
-<img src="./pics/net_architecture.png" width="100%" alt="framework">
+<img src="./pics/network.png" width="100%" alt="framework">
 
 ### Partial Results
 <p><img src="./pics/face1.png" width="48%" alt="face1"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./pics/face2.png" width="48%" alt="face2"></p>
