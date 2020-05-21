@@ -1,0 +1,1 @@
+python test.py --dataset paris_streetview --data_file /home/lijunjie/inpainting_gmcnn-master/tensorflow_MLD/imgs/celebahq_256x256/ --load_model_dir /home/lijunjie/inpainting_gmcnn-master/tensorflow_MLD/tensorbord/HQ-MLD-LW-stroke-bigmask_kernel8x8 --mask_type stroke --random_mask 0 --img_shapes 256,256,3
