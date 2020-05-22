@@ -280,9 +280,9 @@ class GMCNNModel:
             #self.harr_loss_x1=self.harr_loss_x1+tf.reduce_mean(tf.square(c[i]-b[i]))
         #added end 
         #added by ljj local
-        a_local=littilewave(local_patch_batch_complete,3)	
-        b_local=littilewave(local_patch_batch_pos,3)
-        #c_local=littilewave(batch_complete_x1_local,3)	
+        a_local=littilewave(local_patch_batch_complete,4)	
+        b_local=littilewave(local_patch_batch_pos,4)
+        #c_local=littilewave(batch_complete_x1_local,4)	
         self.harr_loss_x2_local=0	
         #self.harr_loss_x1_local=0			
         for i in range(len(a_local)):
