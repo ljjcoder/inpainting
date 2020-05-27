@@ -10,6 +10,7 @@
 
 ## Results on Paris StreetView and CelebA-HQ with irregular mask.
 <img src="./pic/github_vis_irregular_HQ_street.png" width="100%" alt="center">
+<img src="./pic/github_vis_irregular_Places2.png" width="100%" alt="center">
 ## Introduction
 This repository is for the NeurIPS 2018 paper, '[Image Inpainting via Generative Multi-column Convolutional Neural Networks](http://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks.pdf)'.
 
