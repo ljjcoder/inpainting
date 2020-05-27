@@ -121,7 +121,7 @@ Our code is partially based on [Generative Image Inpainting with Contextual Atte
 
 ### Contact
 
-Please send email to yiwang@cse.cuhk.edu.hk.
+Please send email to hnljj@mail.ustc.edu.cn.
 
 Here we supply the pretrained model of Places2 and CelebA-HQ.
 Places2:
