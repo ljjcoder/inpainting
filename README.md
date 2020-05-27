@@ -4,10 +4,10 @@
 .
 <img src="./pic/1583686433(1).jpg" width="100%" alt="Teaser">
 
-## Results on Places2，Paris StreetView and CelebA-HQ .
+## Results on Places2，Paris StreetView and CelebA-HQ with rectangular mask .
 <img src="./pic/1583727392(1).jpg" width="100%" alt="center">
 <p><img src="./pics/places2hd_random.gif" width="65%" alt="places2hd" style="margin-left: auto; margin-right: auto; display: block;"></p>
-<p><img src="./pics/celeba-hq.png" width="100%" alt="celeba-hq_512"></p>
+
 ## Results on Paris StreetView and CelebA-HQ with irregular mask.
 <img src="./pic/github_vis_irregular_HQ_street.png" width="100%" alt="center">
 ## Introduction
