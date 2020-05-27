@@ -1,4 +1,9 @@
 # Multi-Level Discriminator and Wavelet Lossfor Image Inpainting with Large Missing Area
+## Introduction
+Recent works for image inpainting have shown promising results thanks to the advances of Generative Adversarial Network. However, these methods still generate distorted structures or blurry textures with large missing area, which is inherently caused by the difficulty of training GAN.
+The key challenges are the discriminator fails to provide meaningful gradients when there are not enough overlap between the distributions of real images and generated ones.
+To address the issue, we propose a novel multi-level discriminator architecture to improve the training of discriminator by increasing the overlap between the distributions of real images and generated ones. In addition, we also propose wavelet loss as a regularization term in the frequency domain to stabilize the training process.
+Extensive experiments on CelebA-HQ, Paris StreetView, and Places2 demonstrate the effectiveness of the proposed method, which achieves state-of-the-art performance and generates the synthesized images of high quality.
 
 ## Results on CA(https://github.com/JiahuiYu/generative_inpainting/tree/v1.0.0) and GMCNN(https://github.com/shepnerd/inpainting_gmcnn).
 .
