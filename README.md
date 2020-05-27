@@ -18,28 +18,9 @@ We propose a new discriminator architecture MLD and a new loss function WT loss 
 ## Results on Paris StreetView and CelebA-HQ with irregular mask.
 <img src="./pic/github_vis_irregular_HQ_street.png" width="100%" alt="center">
 <img src="./pic/github_vis_irregular_Places2.png" width="100%" alt="center">
-## Introduction
-This repository is for the NeurIPS 2018 paper, '[Image Inpainting via Generative Multi-column Convolutional Neural Networks](http://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks.pdf)'.
-
-If our method is useful for your research, please consider citing:
-
-    @inproceedings{wang2018image,
-      title={Image Inpainting via Generative Multi-column Convolutional Neural Networks},
-      author={Wang, Yi and Tao, Xin and Qi, Xiaojuan and Shen, Xiaoyong and Jia, Jiaya},
-      booktitle={Advances in Neural Information Processing Systems},
-      pages={331--340},
-      year={2018}
-    }
 
 
-### Partial Results
-<p><img src="./pics/face1.png" width="48%" alt="face1"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./pics/face2.png" width="48%" alt="face2"></p>
 
-<p><img src="./pics/face3.png" width="48%" alt="face3"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./pics/face4.png" width="48%" alt="face4"></p>
-
-<p><img src="./pics/p2.png" width="100%" alt="celeba-hq_512"></p>
-
-<p><img src="./pics/p3.png" width="100%" alt="celeba-hq_512"></p>
 
 ### [More results](https://drive.google.com/file/d/1uzYgpiCkENTqW-Yy-AriHXH0wUidi3KY/view?usp=sharing)
 
@@ -56,11 +37,6 @@ If our method is useful for your research, please consider citing:
 ```bash
 git clone https://github.com/shepnerd/inpainting_gmcnn.git
 cd inpainting_gmcnn/tensorflow
-```
-or
-```bash
-cd inpainting_gmcnn/pytorch
-```
 
 ## For tensorflow implementations
 ### Testing
@@ -129,3 +105,7 @@ Please send email to hnljj@mail.ustc.edu.cn.
 
 Here we supply the pretrained model of Places2 and CelebA-HQ.
 Places2:
+
+If our method is useful for your research, please consider citing:
+
+
