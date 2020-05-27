@@ -11,7 +11,7 @@ We propose a new discriminator architecture MLD and a new loss function WT loss 
 .
 <img src="./pic/1583686433(1).jpg" width="100%" alt="Teaser">
 
-## Results on Places2，Paris StreetView and CelebA-HQ with rectangular mask .
+## Results on Places2, CelebA-HQ and Paris StreetView with rectangular mask .
 <img src="./pic/1583727392(1).jpg" width="100%" alt="center">
 
 
