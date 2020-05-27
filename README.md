@@ -1,7 +1,7 @@
 # Multi-Level Discriminator and Wavelet Loss for Image Inpainting with Large Missing Area
 ## Introduction
 
-We propose a new discriminator architecture MLD and a new loss function WT loss to improve the current inpainting method in the case of large areas that are easy to cause artifacts. The method we proposed can be embedded in any GAN-based inpainting method, and will not bring any extra overhead of calculation in the inference stage.
+We propose a new discriminator architecture MLD and a new loss function WT loss to improve the current inpainting method in the case of large areas that are easy to cause artifacts. The method we proposed can be embedded in any GAN-based inpainting method, and will not bring any extra overhead of calculation in the inference stage. Particularly, we investigate the combinations with GMCNN and CA in this paper due to their good performance. In the experiment, we proved that embedding our method in GMCNN and CA can bring performance improvement.
 
 ## Our framework
 
