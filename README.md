@@ -19,6 +19,9 @@ We propose a new discriminator architecture MLD and a new loss function WT loss 
 <img src="./pic/github_vis_irregular_HQ_street.png" width="100%" alt="center">
 <img src="./pic/github_vis_irregular_Places2.png" width="100%" alt="center">
 
+## Code
+
+Our code will be released soon.
 
 ## Acknowledgments
 Our code is based on [CA](https://github.com/JiahuiYu/generative_inpainting/tree/v1.0.0) and [GMCNN](https://github.com/shepnerd/inpainting_gmcnn). 
