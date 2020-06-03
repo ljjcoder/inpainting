@@ -1,1 +1,0 @@
-python train.py --dataset places2 --data_file /data/hnljj/places2_large/places2_chalenge_train_shuff.flist --mask_type stroke --gpu_ids 0 --tensorboard_folder /output/places2_stroke_scrash/ --pretrain_network 0 --max_iters 50000 --batch_size 8
