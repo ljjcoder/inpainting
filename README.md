@@ -17,7 +17,7 @@ We propose a new discriminator architecture MLD and a new loss function WT loss 
 
 ## Results on Paris StreetView and CelebA-HQ with irregular mask.
 <img src="./pic/github_vis_irregular_HQ_street.png" width="100%" alt="center">
-<img src="./pic/github_vis_irregular_Places2.png" width="100%" alt="center">
+<img src="./pic/vis_irregular_Places2.png" width="100%" alt="center">
 
 
 ## More results
