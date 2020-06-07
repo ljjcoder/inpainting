@@ -7,7 +7,7 @@ We propose a new discriminator architecture MLD and a new loss function WT loss 
 
 <img src="./pic/network.png" width="100%" alt="framework">
 
-## Results on CA(https://github.com/JiahuiYu/generative_inpainting/tree/v1.0.0) and GMCNN(https://github.com/shepnerd/inpainting_gmcnn).
+## Results on CA and GMCNN.
 .
 <img src="./pic/1583686433(1).jpg" width="100%" alt="Teaser">
 
@@ -18,6 +18,11 @@ We propose a new discriminator architecture MLD and a new loss function WT loss 
 ## Results on Paris StreetView and CelebA-HQ with irregular mask.
 <img src="./pic/github_vis_irregular_HQ_street.png" width="100%" alt="center">
 <img src="./pic/github_vis_irregular_Places2.png" width="100%" alt="center">
+
+
+## More results
+
+[vis_examples](https://github.com/JiahuiYu/generative_inpainting/tree/v1.0.0)
 
 ## Code
 
