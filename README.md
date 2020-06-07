@@ -22,7 +22,7 @@ We propose a new discriminator architecture MLD and a new loss function WT loss 
 
 ## More results
 
-[vis_examples](https://github.com/JiahuiYu/generative_inpainting/tree/v1.0.0)
+[vis_examples](https://github.com/ljjcoder/inpainting/tree/master/vis_examples)
 
 ## Code
 
