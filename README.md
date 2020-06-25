@@ -6,7 +6,8 @@ We propose a new discriminator architecture MLD and a new loss function WT loss 
 ## Our framework
 
 <img src="./pic/network.png" width="100%" alt="framework">
-## More results
+
+## Vedio example
 
 [video](https://www.youtube.com/watch?v=8Q9SuW-7rS0&feature=youtu.be)
 
