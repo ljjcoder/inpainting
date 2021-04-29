@@ -7,7 +7,7 @@ We propose a new discriminator architecture MLD and a new loss function WT loss 
 
 <img src="./pic/network.png" width="100%" alt="framework">
 
-## Comparing with different methods with large mask, EC(https://github.com/knazeri/edge-connect), HighFill(https://github.com/duxingren14/Hifill-tensorflow), GMCNN(https://github.com/shepnerd/inpainting_gmcnn)
+## Comparing with different methods with large mask, [EC](https://github.com/knazeri/edge-connect), [HighFill](https://github.com/duxingren14/Hifill-tensorflow), [GMCNN](https://github.com/shepnerd/inpainting_gmcnn)
 <img src="./pic/big_mask_png.png" width="100%" alt="Teaser">
 
 ## Vedio example
