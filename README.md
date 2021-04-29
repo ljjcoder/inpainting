@@ -7,6 +7,9 @@ We propose a new discriminator architecture MLD and a new loss function WT loss 
 
 <img src="./pic/network.png" width="100%" alt="framework">
 
+## Comparing with different methods with large mask
+<img src="./pic/1583686433(1).jpg" width="100%" alt="Teaser">
+
 ## Vedio example
 
 [video](https://www.youtube.com/watch?v=8Q9SuW-7rS0&feature=youtu.be)
